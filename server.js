@@ -9,7 +9,7 @@ const path=require('path')
 dotenv.config();
 
 // connect to database
-connectDB();
+//connectDB();
 //rest object
 const app=express();
 
